@@ -14,4 +14,6 @@
     <color name="give_up_red">#FF5524</color>
     <color name="bet_green">#43CF7C</color>
     <color name="pk_yellow">#FFA623</color>
+    <color name="table_blue">#2A82E4</color>
+    <color name="table_orange">#FF5733</color>
 </resources>
