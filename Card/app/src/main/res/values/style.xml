@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FullScreenTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowFullscreen">true</item> <!-- 强制全屏 -->
+        <item name="android:windowTranslucentStatus">true</item> <!-- 透明状态栏 -->
+        <item name="android:windowTranslucentNavigation">true</item> <!-- 透明导航栏 -->
+<!--        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item> &lt;!&ndash; 适配刘海屏 &ndash;&gt;-->
+    </style>
+</resources>

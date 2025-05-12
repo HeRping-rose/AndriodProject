@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="table_border_black">#181A1C</color>
+    <color name="background_black">#272E30</color>
+    <color name="table_green">#22853B</color>
+    <color name="arrow_gray">#A6A6A6</color>
+    <color name="arrow_green">#26A546</color>
+    <color name="name_text_white">#E1FFFFFF</color>
+    <color name="pot_text_white">#99FFFFFF</color>
+    <color name="turn_orange">#FF8D1A</color>
+    <color name="give_up_red">#FF5524</color>
+    <color name="bet_green">#43CF7C</color>
+    <color name="pk_yellow">#FFA623</color>
+    <color name="table_blue">#2A82E4</color>
+    <color name="table_orange">#FF5733</color>
+</resources>

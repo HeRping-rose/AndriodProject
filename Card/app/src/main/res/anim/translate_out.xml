@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--默认set 动画集 多个动画合集-->
+<!--<set xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--&lt;!&ndash;    透明度 渐变&ndash;&gt;-->
+<!--    <alpha/>-->
+<!--&lt;!&ndash;    旋转动画&ndash;&gt;-->
+<!--    <alpha/>-->
+<!--&lt;!&ndash;    缩放动画&ndash;&gt;-->
+<!--    <scale/>-->
+<!--&lt;!&ndash;    平移动画&ndash;&gt;-->
+<!--    <translate/>-->
+
+<!--</set>-->
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXDelta="0%"
+    android:toXDelta="-100%"
+    android:duration="800"
+    />
+<!--    interpolatory引用资源 快慢节奏-->

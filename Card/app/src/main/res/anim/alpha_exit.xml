@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<set xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+<!--    -->
+<!--</set>-->
+<alpha
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromAlpha="1.0"
+    android:toAlpha="0.0"
+    android:duration="200"
+    android:repeatCount="1"
+    android:repeatMode="restart"
+    android:fillAfter="true"
+
+    />
+<!--    fillAfter    维持动画开始状态-->
+<!--    fillBefore    维持动画结束状态-->
+<!--    repeatCount    重复次数 从零开始  ：infinite 无限次数-->
+<!--    repeatMode    维持动画结束状态-->
+<!--    android:repeatMode="restart"   从头开始  原路返回再开始：reverse-->
+
+
+
+
+
